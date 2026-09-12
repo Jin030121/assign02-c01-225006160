@@ -3,11 +3,11 @@ Assignment 02
 
 W3Schools CSS Demo를 참고하여 기본 HTML 구조를 가진 웹 페이지를 제작하고 같은 HTML에 서로 다른 CSS 스타일을 적용하여 디자인 및 레이아웃 변화를 십습했습니다.
 
-* Vercel Deploy URL: https://assign02-c01-22500616.vercel.app/index.html (본인의 Vercel URL 주소로 확인 후 변경)
-  * Landing Page: `https://assign02-c01-22500616.vercel.app/index.html`
-  * No Style Page: `https://assign02-c01-22500616.vercel.app/nostyle.html`
-  * Style 1 Page: `https://assign02-c01-22500616.vercel.app/style1.html`
-  * Style 2 Page: `https://assign02-c01-22500616.vercel.app/style2.html`
+Vercel Deploy URL: https://assign02-c01-22500616-r5dz.vercel.app/
+Landing Page: https://assign02-c01-22500616-r5dz.vercel.app/index.html
+No Style Page: https://assign02-c01-22500616-r5dz.vercel.app/nostyle.html
+Style 1 Page: https://assign02-c01-22500616-r5dz.vercel.app/style1.html
+Style 2 Page: https://assign02-c01-22500616-r5dz.vercel.app/style2.html
 
 Weekly Review – Week 2
 README.md에 Weekly Review – Week 2를 작성합니다.
